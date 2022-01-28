@@ -1,0 +1,3 @@
+on-join-verify-dni: true
+radius-player: 15
+history-length: 50

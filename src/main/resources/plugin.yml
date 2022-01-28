@@ -1,0 +1,12 @@
+name: Documents
+author: FrancoBM
+description: Documents for this server
+version: 1.0.0
+api-version: 1.13
+main: com.francobm.documents.Documents
+softdepend: [PlaceholderAPI]
+commands:
+  documents:
+    description: documents command
+    usage: /<command>
+    aliases: [dni, documentos, document, documento]

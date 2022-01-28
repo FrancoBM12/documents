@@ -1,0 +1,172 @@
+menus:
+  dni:
+    rows: 3
+    title: 'Documento de identidad (DNI)'
+    1:
+      name: '&b'
+      item: BLACK_STAINED_GLASS_PANE
+      slot: 0
+      lore:
+        - ''
+    2:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 1
+      lore:
+        - ''
+    3:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 2
+      lore:
+        - ''
+    4:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 3
+      lore:
+        - ''
+    5:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 4
+      lore:
+        - ''
+    6:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 5
+      lore:
+        - ''
+    7:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 6
+      lore:
+        - ''
+    8:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 7
+      lore:
+        - ''
+    9:
+      name: '&b'
+      item: BLACK_STAINED_GLASS_PANE
+      slot: 8
+      lore:
+        - ''
+    10:
+      name: '&b'
+      item: BLACK_STAINED_GLASS_PANE
+      slot: 9
+      lore:
+        - ''
+    11:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 10
+      lore:
+        - ''
+    12:
+      name: '&b'
+      item: LIME_STAINED_GLASS_PANE
+      slot: 11
+      lore:
+        - ''
+    13:
+      name: '&6Informacion Personal ✔'
+      item: PLAYER_HEAD
+      slot: 12
+      lore:
+        - '&b'
+        - '&6➥ &eNombre y Apellido: &7%full_name%'
+        - '&6➥ &eFecha de Nacimiento: &7%date_birth%'
+        - '&6➥ &eNacionalidad: &7%nationality%'
+        - '&6➥ &eGenero: &7%gender%'
+        - '&6➥ &eTrabajo: &7%job%'
+    14:
+      name: '&b'
+      item: LIME_STAINED_GLASS_PANE
+      slot: 13
+      lore:
+        - ''
+    15:
+      name: '&6Historia ✉'
+      item: WRITABLE_BOOK
+      slot: 14
+      lore:
+        - '&b'
+        - '&6➥ &e%history%'
+    16:
+      name: '&aEste documento es veridico ✔'
+      item: NAME_TAG
+      slot: 15
+      lore:
+        - ''
+    17:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 16
+      lore:
+        - ''
+    18:
+      name: '&b'
+      item: BLACK_STAINED_GLASS_PANE
+      slot: 17
+      lore:
+        - ''
+    19:
+      name: '&b'
+      item: BLACK_STAINED_GLASS_PANE
+      slot: 18
+      lore:
+        - ''
+    20: #19-25
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 19
+      lore:
+        - ''
+    21:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 20
+      lore:
+        - ''
+    22:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 21
+      lore:
+        - ''
+    23:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 22
+      lore:
+        - ''
+    24:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 23
+      lore:
+        - ''
+    25:
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 24
+      lore:
+        - ''
+    26: #19-25
+      name: '&b'
+      item: YELLOW_STAINED_GLASS_PANE
+      slot: 25
+      lore:
+        - ''
+    27:
+      name: '&b'
+      item: BLACK_STAINED_GLASS_PANE
+      slot: 26
+      lore:
+        - ''
